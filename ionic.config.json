@@ -1,0 +1,7 @@
+{
+  "name": "devdacticChat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
